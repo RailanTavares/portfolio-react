@@ -1,5 +1,5 @@
-/* =========================
-   VARI¡VEIS
+Ôªø/* =========================
+   VARI√ÅVEIS
 ========================= */
 :root {
     --bg-main: #f8fafc;
@@ -164,7 +164,7 @@ body {
 }
 
 /* =========================
-   SE«’ES
+   SE√á√ïES
 ========================= */
 .sessao-conteudo {
     padding: 100px 0;
@@ -283,7 +283,7 @@ h2::after {
 ========================= */
 .habilidades-container {
     margin: 60px auto 0; /* O "auto" centraliza o bloco na horizontal */
-    max-width: 800px; /* Controla a largura para n„o ficar muito esticado na tela */
+    max-width: 800px; /* Controla a largura para n√£o ficar muito esticado na tela */
     padding: 40px;
     background-color: var(--white);
     border-radius: var(--radius);

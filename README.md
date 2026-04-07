@@ -1,16 +1,26 @@
-# React + Vite
+## 🚀 Meu Portfólio Pessoal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é o repositório do meu portfólio pessoal, recentemente migrado para **React**. O objetivo deste projeto é apresentar minha trajetória profissional, acadêmica e, principalmente, os projetos práticos que venho desenvolvendo na área de Sistemas para Internet.
 
-Currently, two official plugins are available:
+## 🛠️ Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+O projeto foi construído utilizando as seguintes tecnologias:
 
-## React Compiler
+- **React**: Para a construção da interface de usuário com componentes reutilizáveis.
+- **JavaScript (JSX/ES6+)**: Lógica e estruturação dinâmica de dados.
+- **CSS3**: Estilização responsiva e moderna, com variáveis nativas.
+- **HTML5**: Estruturação semântica.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Funcionalidades
 
-## Expanding the ESLint configuration
+- **Single Page Application (SPA)**: Navegação fluida estruturada em componentes.
+- **Design Responsivo**: Layout totalmente adaptado para dispositivos móveis, tablets e desktops.
+- **Renderização Dinâmica**: Seção de projetos alimentada dinamicamente via arrays de objetos.
+- **Timeline de Trajetória**: Apresentação visual da evolução acadêmica e capacitações profissionais.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Projetos em Destaque no Portfólio
+
+Alguns dos trabalhos que desenvolvi e que estão em destaque na página:
+
+- **[Plate Editor Pro](https://github.com/RailanTavares/Plate-editor-pro)**: Aplicação web local desenvolvida em Flask (Python), HTML, CSS e JS para facilitar a criação e exportação rápida de placas de ofertas para supermercados.
+- **[Local Video Streaming System](https://github.com/RailanTavares/Local-Video-Streaming-System)**: Plataforma de streaming local em Flask/Python projetada para gerenciar e transmitir conteúdo multimídia de marketing diretamente para Smart TVs via rede local.
